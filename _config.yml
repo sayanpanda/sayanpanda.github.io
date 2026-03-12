@@ -1,0 +1,74 @@
+# Site settings
+title: Sayan Panda
+description: >-
+  Personal academic website of Sayan Panda — Junior Research Fellow in Astrophysics
+  at the Indian Institute of Astrophysics.
+url: "" # e.g. https://yourusername.github.io
+baseurl: "" # e.g. /website if hosted at username.github.io/website
+author: Sayan Panda
+
+# Profile
+profile:
+  name: Sayan Panda
+  title: Junior Research Fellow
+  affiliation: Indian Institute of Astrophysics
+  email: sayan.panda@iiap.res.in
+  photo: /assets/images/profile.jpg
+  description: >-
+    I study the interstellar medium, dust polarization, and magnetic fields
+    in star-forming regions and high-latitude environments using multi-wavelength observational techniques.
+
+# Social / academic links
+links:
+  google_scholar: "https://scholar.google.com/citations?user=XXXXXX"
+  github: "https://github.com/sayanpanda"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  linkedin: "https://www.linkedin.com/in/sayan-panda-818053229/"
+  email: "mailto:sayan.panda@iiap.res.in"
+  cv: "/cv/"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: CV
+    url: /cv/
+  - title: Events
+    url: /events/
+  - title: Outreach
+    url: /outreach/
+  - title: Resources
+    url: /resources/
+  - title: Contact
+    url: /contact/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO
+twitter:
+  card: summary
+social:
+  name: Sayan Panda
+  links:
+    - https://github.com/sayanpanda
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - node_modules
+  - vendor
