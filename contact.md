@@ -12,7 +12,7 @@ I am always happy to hear from fellow researchers, students, or anyone intereste
   <li><strong>Email</strong> <a href="{{ site.links.email }}">{{ site.profile.email }}</a></li>
   <li><strong>GitHub</strong> <a href="{{ site.links.github }}" target="_blank" rel="noopener">{{ site.links.github | remove: 'https://' }}</a></li>
   <li><strong>Scholar</strong> <a href="{{ site.links.google_scholar }}" target="_blank" rel="noopener">Google Scholar profile</a></li>
-  <li><strong>ORCID</strong> <a href="{{ site.links.orcid }}" target="_blank" rel="noopener">{{ site.links.orcid | remove: 'https://orcid.org/' }}</a></li>
+  <li><strong>LinkedIn</strong> <a href="{{ site.links.linkedin }}" target="_blank" rel="noopener">LinkedIn profile</a></li>
 </ul>
 
 ### Mailing Address

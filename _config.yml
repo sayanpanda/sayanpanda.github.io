@@ -1,7 +1,7 @@
 # Site settings
 title: Sayan Panda
 description: >-
-  Personal academic website of Sayan Panda — PhD Student in Astrophysics
+  Personal academic website of Sayan Panda — Junior Research Fellow in Astrophysics
   at the Indian Institute of Astrophysics.
 url: "" # e.g. https://yourusername.github.io
 baseurl: "" # e.g. /website if hosted at username.github.io/website
@@ -10,7 +10,7 @@ author: Sayan Panda
 # Profile
 profile:
   name: Sayan Panda
-  title: PhD Student in Astrophysics
+  title: Junior Research Fellow
   affiliation: Indian Institute of Astrophysics
   email: sayan.panda@iiap.res.in
   photo: /assets/images/profile.jpg
@@ -23,6 +23,7 @@ links:
   google_scholar: "https://scholar.google.com/citations?user=XXXXXX"
   github: "https://github.com/sayanpanda"
   orcid: "https://orcid.org/0000-0000-0000-0000"
+  linkedin: "https://www.linkedin.com/in/sayan-panda-818053229/"
   email: "mailto:sayan.panda@iiap.res.in"
   cv: "/cv/"
 

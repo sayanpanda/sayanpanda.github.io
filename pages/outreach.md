@@ -19,12 +19,9 @@ The demo was part of IIA's open-house programme and attracted audiences ranging 
 
 ---
 
-## Past & Planned Activities
+## Planned Activities
 
-- **IIA Open Night talks** — short telescope-viewing sessions and informal Q&A on current research (ongoing).
-- **School visit programme** — planned visits to Kendriya Vidyalayas in Bengaluru to introduce observational astronomy with small telescopes.
-- **Astronomy club mentoring** — mentoring undergraduate students interested in astrophysics projects (planned 2026–27).
-- **Science-communication writing** — short explainers on ISM and dust polarization for a broader audience (in preparation).
+- **Comprehensive Spectroscopy Demonstration** – In collaboration with the SCOPE outreach program at the Indian Institute of Astrophysics, I am developing a comprehensive spectroscopy demonstration covering absorption and emission spectra, Doppler shifts, and their applications in astrophysics. The activity includes developing demonstration setups and supporting educational materials for public outreach and student engagement.
 
 ---
 

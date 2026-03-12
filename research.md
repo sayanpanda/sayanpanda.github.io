@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My research broadly lies at the intersection of **observational astrophysics** and the **physics of the interstellar medium**. I use dust polarization as a diagnostic tool to study the magnetic field structure in high lattitude molecular clouds.
+I study how magnetic fields influence nearby high-latitude molecular clouds (HLCs). These clouds form from magnetically-guided gas flows created by supernova shells and expanding bubbles. Most HLCs are diffuse and non-star-forming, but *MBM 12 (Lynds 1457/1458)* is a rare case of a star-forming high-latitude cloud. Its proximity (∼100 pc) and active star formation make MBM 12 an ideal testbed. My research goal is to map MBM 12’s magnetic field and understand its role in the cloud’s structure and star formation.
 
 ---
 <div class="research-area" markdown="1">
@@ -26,7 +26,7 @@ Dust grains in the ISM are often non-spherical and tend to align with their shor
 
 ### Magnetic Fields in ISM
 
-Magnetic fields are thought to play a critical role in regulating the rate and efficiency of star formation, yet their observational characterization remains challenging. I use polarimetric data — combined with molecular-line observations and dust continuum maps — to study the geometry, strength, and dynamical importance of magnetic fields from cloud scales (~10 pc) down to dense core scales (~0.1 pc).
+I study how magnetic fields influence nearby high-latitude molecular clouds (HLCs). These clouds form from magnetically-guided gas flows created by supernova shells and expanding bubbles. Most HLCs are diffuse and non-star-forming, but *MBM 12 (Lynds 1457/1458) is a rare case of a star-forming high-latitude cloud. Its proximity (∼100 pc) and active star formation make MBM 12 an ideal testbed. My research goal is to map MBM 12’s magnetic field and understand its role in the cloud’s structure and star formation.
 
 </div>
 
@@ -34,6 +34,6 @@ Magnetic fields are thought to play a critical role in regulating the rate and e
 
 ### Observational Techniques
 
-I work with data from ground-based and space-borne observatories, including *McDonald Observatory*, *Akari*, and *Planck*. My technical interests include polarimetric calibration, noise characterization, and the application of Bayesian and statistical methods to polarization data analysis.
+I work with data from ground-based and space-borne observatories, including *McDonald Observatory*, *Akari*, and *Planck*. My technical interests include using AI/ML techniques to reconstruct 3D magnetic field morphology from observation.
 
 </div>

@@ -21,6 +21,8 @@ A curated collection of textbooks, papers, tools, and datasets that I find usefu
 
 ## Review Papers
 
+- **Pattle et al. (2022)** - *Magnetic fields in star formation: from clouds to cores* ([arXiv](https://arxiv.org/abs/2203.11179){:target="_blank"}).
+ Comprehensive overview of observational techniques, morphology, role of magnetic field in various scales.
 - **Andersson, Lazarian & Vaillancourt (2015)** — *Interstellar Dust Grain Alignment* ([ARA&A](https://doi.org/10.1146/annurev-astro-082214-122414){:target="_blank"}).
   Comprehensive review of grain alignment theory and polarimetric observations.
 - **Hennebelle & Inutsuka (2019)** — *The Role of Magnetic Fields in the Formation of Stars* ([Front. Astron. Space Sci.](https://doi.org/10.3389/fspas.2019.00005){:target="_blank"}).
@@ -36,8 +38,14 @@ A curated collection of textbooks, papers, tools, and datasets that I find usefu
   Hands-on Jupyter notebooks covering FITS I/O, WCS, photometry, and more.
 - **Python for Astronomers** — [python4astronomers.github.io](https://python4astronomers.github.io){:target="_blank"}
   Gentle introduction to NumPy, SciPy, and Matplotlib for astronomical data.
-- **UVIT Data Reduction** — CCDLAB documentation & IIA internal wiki.
-  Practical guide for Level-1 to Level-2 UVIT pipeline reduction.
+- **UVIT Data Reduction** — CCDLAB [YouTube Tutorial](https://youtu.be/QyIfjwN4DK4?si=tKzXixQWkJdVgW3Q)
+
+---
+
+## Articles
+
+- **Markus Pössel (2020)** - *A Beginner's Guide to Working with Astronomical Data* ([arXiv](https://arxiv.org/abs/1905.13189)) - An excellent broad overview of astronomical data and data manipulation.
+
 
 ---
 
@@ -51,6 +59,7 @@ A curated collection of textbooks, papers, tools, and datasets that I find usefu
 | [HEALPix / healpy](https://healpy.readthedocs.io){:target="_blank"} | Pixelisation scheme for full-sky maps; essential for working with Planck data. |
 | [CCDLAB](https://github.com/user-astro/ccdlab){:target="_blank"} | UVIT photometry pipeline. |
 | [Git](https://git-scm.com){:target="_blank"} | Version control — indispensable for reproducible research. |
+| [VS Code](https://code.visualstudio.com/){:target="_blank} |My editor of choice, works great with Jupyter Notebook extension and Remote Development|
 
 ---
 
@@ -62,9 +71,7 @@ A curated collection of textbooks, papers, tools, and datasets that I find usefu
 | [ADS (Astrophysics Data System)](https://ui.adsabs.harvard.edu){:target="_blank"} | Literature search, citation tracking, and export to BibTeX. |
 | [arXiv astro-ph](https://arxiv.org/list/astro-ph/new){:target="_blank"} | Daily preprints — subscribe to astro-ph.GA and astro-ph.SR for ISM papers. |
 | [SIMBAD](https://simbad.u-strasbg.fr/simbad/){:target="_blank"} | Object identifier cross-referencing and basic data. |
-| [Google Scholar](https://scholar.google.com){:target="_blank"} | Broad literature search and citation alerts. |
-| [ORCID](https://orcid.org){:target="_blank"} | Persistent researcher identifier — link all your publications. |
-| [GitHub](https://github.com){:target="_blank"} | Host analysis code, share notebooks, collaborate openly. |
+| [SkyView](https://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl){:target="_blank"} |The Internet's Virtual Telescope.|
 
 ---
 
