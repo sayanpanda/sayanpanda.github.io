@@ -9,28 +9,21 @@ I study how magnetic fields influence nearby high-latitude molecular clouds (HLC
 ---
 <div class="research-area" markdown="1">
 
-### Interstellar Medium
-[The interstellar medium](https://en.wikipedia.org/wiki/Interstellar_medium) (ISM) is the material that fills the space between stars — a complex, turbulent, multi-phase environment of gas and dust. I study the physical properties of the ISM in and around molecular clouds, focusing on how large-scale flows, turbulence, and magnetic fields interact to shape the structures from which stars ultimately form.
+### Scientific Goals
 
-</div>
+This project aims to characterize the magnetic field structure of the high-latitude molecular cloud MBM 12 by combining large-scale dust polarization data from Planck with optical starlight polarization measurements. By probing the magnetic field across different density regimes, the study seeks to understand how magnetic fields influence cloud structure, dust grain alignment, and the earliest stages of star formation.
 
-<div class="research-area" markdown="1">
+- **Map the three-dimensional magnetic field**  
+  Combine Planck 353 GHz dust polarization data (~10' resolution) with R-band starlight polarization of background stars to reconstruct the magnetic field geometry across MBM 12. Planck traces the large-scale plane-of-sky magnetic field in diffuse regions, while optical polarization measurements toward individual background stars provide line-of-sight sampling through the cloud. Together, these datasets will allow the magnetic field structure to be traced from the diffuse outskirts into the denser interior of the cloud.
 
-### Dust Polarization
+- **Analyze magnetic field–structure alignment**  
+  Quantify the relative orientation between the magnetic field and the filamentary structures within MBM 12. Studies of nearby molecular clouds have shown that the magnetic field often aligns with low-density striations but becomes perpendicular to dense filaments above column densities of approximately 1.6 × 10^21 cm^-2. We will test whether MBM 12 exhibits a similar transition and examine how the field geometry varies across different density regimes.
 
-Dust grains in the ISM are often non-spherical and tend to align with their short axes parallel to the local magnetic field. This alignment causes thermal emission from dust to be linearly polarized. By mapping this polarization at sub-millimeter and far-infrared wavelengths, we can infer the plane-of-sky component of the magnetic field. My work involves both new polarimetric observations and the development of analysis techniques to extract physical insight from polarization maps.
+- **Quantify dust grain alignment efficiency**  
+  Investigate how the polarization fraction varies with column density to evaluate the efficiency of dust grain alignment in the cloud. Previous comparisons between optical polarization and Planck dust polarization at high Galactic latitudes show strong consistency, suggesting similar dust properties across environments. We will examine whether MBM 12 follows the same behavior and whether grain alignment efficiency changes toward denser regions.
 
-</div>
-
-<div class="research-area" markdown="1">
-
-### Magnetic Fields in ISM
-
-I study how magnetic fields influence nearby high-latitude molecular clouds (HLCs). These clouds form from magnetically-guided gas flows created by supernova shells and expanding bubbles. Most HLCs are diffuse and non-star-forming, but *MBM 12 (Lynds 1457/1458) is a rare case of a star-forming high-latitude cloud. Its proximity (∼100 pc) and active star formation make MBM 12 an ideal testbed. My research goal is to map MBM 12’s magnetic field and understand its role in the cloud’s structure and star formation.
-
-</div>
-
-<div class="research-area" markdown="1">
+- **Explore the connection to star formation**  
+  Assess whether the magnetic field geometry has influenced the formation of dense cores and young stellar objects within MBM 12. Earlier multiband polarimetric studies suggest that the cloud is threaded by a relatively ordered magnetic field. By combining new optical polarimetry with large-scale Planck data, this work will refine the magnetic field morphology and investigate its relationship with the distribution of young stars and dense structures in the cloud.
 
 ### Observational Techniques
 

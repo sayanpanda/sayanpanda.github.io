@@ -38,13 +38,13 @@ A curated collection of textbooks, papers, tools, and datasets that I find usefu
   Hands-on Jupyter notebooks covering FITS I/O, WCS, photometry, and more.
 - **Python for Astronomers** — [python4astronomers.github.io](https://python4astronomers.github.io){:target="_blank"}
   Gentle introduction to NumPy, SciPy, and Matplotlib for astronomical data.
-- **UVIT Data Reduction** — CCDLAB [YouTube Tutorial](https://youtu.be/QyIfjwN4DK4?si=tKzXixQWkJdVgW3Q)
+- **UVIT Data Reduction** — CCDLAB [YouTube Tutorial](https://youtu.be/QyIfjwN4DK4?si=tKzXixQWkJdVgW3Q){:target="_blank"}
 
 ---
 
 ## Articles
 
-- **Markus Pössel (2020)** - *A Beginner's Guide to Working with Astronomical Data* ([arXiv](https://arxiv.org/abs/1905.13189)) - An excellent broad overview of astronomical data and data manipulation.
+- **Markus Pössel (2020)** - *A Beginner's Guide to Working with Astronomical Data* ([arXiv](https://arxiv.org/abs/1905.13189){:target="_blank"}) - An excellent broad overview of astronomical data and data manipulation.
 
 
 ---

@@ -16,8 +16,9 @@
   --color-code-bg: #f5f5f5;
   --color-shadow: rgba(0, 0, 0, 0.08);
 
-  /* Typography */
+  /* Typography — uncomment ONE line and comment out the other */
   --font-serif: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  /* --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif; */
   --font-mono: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
   --font-size-base: 18px;
   --line-height: 1.6;

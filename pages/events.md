@@ -3,13 +3,12 @@ layout: page
 title: Events
 permalink: /events/
 ---
-<!-- Generated from user uploads: event.md & new 9.txt -->
 
 A record of workshops, conferences, and schools I have attended or presented at.
 
 ---
 
-## Workshops & Short Courses
+## Workshops & Schools
 
 <div class="cv-section" markdown="1">
 
@@ -40,6 +39,7 @@ Introduction to MCP servers, agentic coding patterns, and AI-assisted developmen
 <div class="cv-entry" markdown="1">
 <div class="cv-entry-title">International Conference on A Decade of AstroSat Observations</div>
 <div class="cv-entry-meta">30 Jan 2026 – 01 Feb 2026</div>
+<div class="cv-entry-meta">U. R. Rao Satellite Centre, Indian Space Research Organization (ISRO)</div>
 
 **Role:** Presenter (poster)  
 **Title:** *Probing the Phantom Void in NGC 628 with AstroSat–UVIT: Far-Ultraviolet Insights into a Giant Superbubble*
@@ -53,4 +53,4 @@ Presented FUV imaging results from UVIT aboard AstroSat, showing that the Phanto
 
 ---
 
-*Slides and poster PDFs are placed in `/assets/files/talks/`. If a link is broken, the file has not yet been uploaded.*
+*If a link is broken, the file has not yet been uploaded.*
