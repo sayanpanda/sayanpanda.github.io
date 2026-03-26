@@ -4,12 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I study how magnetic fields influence nearby high-latitude molecular clouds (HLCs). These clouds form from magnetically-guided gas flows created by supernova shells and expanding bubbles. Most HLCs are diffuse and non-star-forming, but *MBM 12 (Lynds 1457/1458)* is a rare case of a star-forming high-latitude cloud. Its proximity (∼100 pc) and active star formation make MBM 12 an ideal testbed. My research goal is to map MBM 12’s magnetic field and understand its role in the cloud’s structure and star formation.
+I study how magnetic fields influence nearby high-latitude molecular clouds (HLCs) with [**Dr. Archana Soam**](https://sites.google.com/view/soam-archana).   These clouds form from magnetically-guided gas flows created by supernova shells and expanding bubbles. Most HLCs are diffuse and non-star-forming, but *MBM 12 (Lynds 1457/1458)* is a rare case of a star-forming high-latitude cloud. Its proximity (∼100 pc) and active star formation make MBM 12 an ideal testbed. My research goal is to map MBM 12’s magnetic field and understand its role in the cloud’s structure and star formation.
 
 ---
 <div class="research-area" markdown="1">
 
-### Scientific Goals
+## Scientific Goals
 
 This project aims to characterize the magnetic field structure of the high-latitude molecular cloud MBM 12 by combining large-scale dust polarization data from Planck with optical starlight polarization measurements. By probing the magnetic field across different density regimes, the study seeks to understand how magnetic fields influence cloud structure, dust grain alignment, and the earliest stages of star formation.
 
